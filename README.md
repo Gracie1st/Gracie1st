@@ -1,3 +1,5 @@
+[![gracie1st](https://github.com/gracie1st/gracie1st/blob/main/gitartwork.svg)](https://github.com/gracie1st/gracie1st/)
+<br/><br/>
 # David Grace
 I'm a Frontend Web Developer 💻, Content Creator , UX/UI Designer 👩‍💻 !
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
