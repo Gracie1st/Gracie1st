@@ -3,7 +3,7 @@
 # David Grace
 I'm a Frontend Web Developer 💻, Content Creator , UX/UI Designer 👩‍💻 !
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Engineer;Front-end+Web+Developer!;Student)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Engineer;Front-end+Web+Developer!;UI/UX+Designer)](https://git.io/typing-svg)
 My areas of interest are Web development, UI/UX, Software Engineering and Artificial Intelligence<br>
 
 
