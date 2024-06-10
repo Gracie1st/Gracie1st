@@ -35,5 +35,5 @@ Phone: +234(0)7039277137
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardope)](https://git.io/streak-stats)
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hardope"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gracie1st)](https://git.io/streak-stats)
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gracie1st"/>
